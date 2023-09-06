@@ -2,7 +2,7 @@
 
 Treemaps are another great way to visualize hierarchical data.
 
-This visualization shows the breakdown of each Nashville hospital into it's separate healthcare units by outside referral count.
+This visualization shows the breakdown of each Nashville hospital into its separate healthcare units by outside referral count.
 
 The size is based on number of referral transactions while the color is based on the percentage of overall referrals to that particular hospital unit in proportion to all other hospital units.
 
